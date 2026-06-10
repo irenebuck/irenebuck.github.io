@@ -2,7 +2,7 @@
 
 I am a problem solver who builds things to help people. 
 
-<a href="https://docs.google.com/document/d/1qjMeU7DkLX6hchFfOfJFGnB3gIEhOev0/edit?usp=sharing" style="display: inline-block; padding: 10px 20px; background-color: #4479A1; color: white; border-radius: 6px; text-decoration: none; font-weight: bold;">📄 View My Resume</a>
+<a href="https://docs.google.com/document/d/1qjMeU7DkLX6hchFfOfJFGnB3gIEhOev0/edit?usp=sharing&ouid=110348602390034882536&rtpof=true&sd=true" style="display: inline-block; padding: 10px 20px; background-color: #4479A1; color: white; border-radius: 6px; text-decoration: none; font-weight: bold;">📄 View My Resume</a>
 
 
 ## Skills
