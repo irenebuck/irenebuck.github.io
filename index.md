@@ -19,7 +19,7 @@ I am a problem solver who builds things to help people.
 <span style="display: inline-flex; align-items: center; gap: 8px;"><img src="https://api.iconify.design/mdi/database.svg?color=%234479A1" width="32" alt="SQL" /> SQL</span>
 <span style="display: inline-flex; align-items: center; gap: 8px;"><img src="https://api.iconify.design/mdi/api.svg?color=%234479A1" width="32" alt="REST APIs" /> REST APIs</span>
 </div>
-<br></br>
+<br>
 
 ## Projects
 
