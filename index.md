@@ -1,6 +1,6 @@
 # Hi there!👋
 
-I graduated in June 2026 with a BS in Computer Science. I'm a problem solver who builds things to help people.
+I am a problem solver who builds things to help people. 
 
 <a href="https://docs.google.com/document/d/1qjMeU7DkLX6hchFfOfJFGnB3gIEhOev0/edit?usp=sharing" style="display: inline-block; padding: 10px 20px; background-color: #4479A1; color: white; border-radius: 6px; text-decoration: none; font-weight: bold;">📄 View My Resume</a>
 
@@ -19,7 +19,7 @@ I graduated in June 2026 with a BS in Computer Science. I'm a problem solver who
 <span style="display: inline-flex; align-items: center; gap: 8px;"><img src="https://api.iconify.design/mdi/database.svg?color=%234479A1" width="32" alt="SQL" /> SQL</span>
 <span style="display: inline-flex; align-items: center; gap: 8px;"><img src="https://api.iconify.design/mdi/api.svg?color=%234479A1" width="32" alt="REST APIs" /> REST APIs</span>
 </div>
-
+<br></br>
 
 ## Projects
 
