@@ -1,4 +1,4 @@
-# Hi there! I'm Irene 👋
+# Hi there!👋
 
 I graduated in June 2026 with a BS in Computer Science. I'm a problem solver who builds things to help people.
 
